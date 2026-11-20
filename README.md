@@ -52,6 +52,8 @@ The aim of this experiment is to apply heuristic evaluation of existing websites
 ## Output:
 
 <img width="866" height="723" alt="image" src="https://github.com/user-attachments/assets/7797be77-aa0a-4b76-9fd9-5e16ed2b5de9" />
+<img width="685" height="728" alt="image" src="https://github.com/user-attachments/assets/715fcf96-fd8c-48c6-8e74-0e5f7d896f74" />
+
 
 
 ## Result:
