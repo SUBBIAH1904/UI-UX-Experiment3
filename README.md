@@ -1,5 +1,8 @@
 # UI-UX-Experiment3
 
+## Name : Subbiah S
+## Reg no : 212223220111
+
 ## Aim:
 
 The aim of this experiment is to apply heuristic evaluation of existing websites or apps and redesign them by combining features of two competing applications to improve the overall user experience.
